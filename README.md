@@ -1,8 +1,8 @@
 # SOFTWARE ENGINEERING LAB UMLDIAGRAMS
 
-#SALOON MANAGEMENT SYSTEM
+# SALOON MANAGEMENT SYSTEM
 # Experiments   Name
-     1         Software Requirements Specification (Saloon management system)--To collect software requirements and create software requirement specification.
+   1         Software Requirements Specification (Saloon management system)--To collect software requirements and create software requirement specification.
      2         Data Flow Diagrams-- To design dataflow diagram for software requirements.
      3         Functional Decompositiom-- To design functional decomposition diagram for software requirements.
      4         Use Case Diagrams--To design use case diagram for software requirementsof Saloon Management system.
